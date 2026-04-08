@@ -22,14 +22,14 @@ source_suffix = {
 
 master_doc = 'index'  # your root document
 
-templates_path = ['_templates']  # Important: enables your custom templates
+templates_path = ['templates']  # Important: enables your custom templates
 
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "Install TurboTax With License Code (2026): Desktop, Windows & Canada Step-by-Step Guide"
+html_title = "$1800 Monthly Social Security Increase – Eligibility, Payment Dates & Latest Update"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
