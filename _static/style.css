@@ -16,3 +16,9 @@ ul {
 li {
   margin-bottom: 8px;
 }
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
