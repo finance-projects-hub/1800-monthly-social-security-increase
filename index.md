@@ -1,3 +1,7 @@
-# How to
+# 1800 Monthly Social Security Increase
 
-The Ultimate latest project start for the testing of readthedocs.
+Welcome to the documentation.
+
+## Contents
+
+- [Introduction](README.md)
