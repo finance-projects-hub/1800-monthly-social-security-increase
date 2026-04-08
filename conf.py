@@ -10,9 +10,9 @@ author = 'Author'
 
 # -- General configuration ---------------------------------------------------
 
-extensions = [
-    'myst_parser',   # Markdown support
-]
+extensions = ['myst_parser']
+
+html_theme = 'sphinx_rtd_theme'
 
 # Source file suffixes - support both reStructuredText and Markdown
 source_suffix = {
