@@ -11,7 +11,7 @@ author = 'Author'
 # -- General configuration ---------------------------------------------------
 
 extensions = [
-    'myst_parser',  # to support Markdown files
+    'myst_parser',   # Markdown support
 ]
 
 # Source file suffixes - support both reStructuredText and Markdown
