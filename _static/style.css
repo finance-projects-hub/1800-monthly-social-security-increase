@@ -17,8 +17,3 @@ p {
   margin: auto;
   padding: 20px;
 }
-
-.rst-content ul {
-  list-style-type: disc !important;
-  padding-left: 20px;
-}
