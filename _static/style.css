@@ -17,3 +17,12 @@ p {
   margin: auto;
   padding: 20px;
 }
+
+.rst-content ul {
+  list-style-type: disc !important;
+  margin-left: 20px;
+}
+
+.rst-content li {
+  display: list-item !important;
+}
